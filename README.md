@@ -6,16 +6,16 @@
 - [x] Health bar - Player
 - [x] Damage Power - Player
 - [x] Score - (+10) point each shoot on target
-- [x] Score - _(-5) when hitted
+- [x] Score - (-5) when hitted
 - [x] Score - HUD
 
-- [x] Enemy - Random movement - 1 axis
+- [x] Enemy - movement - 1 axis
 - [x] Enemy - Not shooting when player is behind
 - [x] Enemy - Shoot to player
 - [x] Enemy - Shooting rate
 - [x] Enemy - Damage Power
 - [x] Enemy - Health bar (Above)
-- [x] Enemy - More damage when shooting on back
+- [ ] Enemy - More damage when shooting on back
 
 - [x] Die condition
 
